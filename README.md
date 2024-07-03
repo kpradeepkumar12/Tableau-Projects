@@ -1,4 +1,4 @@
-Project 1: Netflix data 
+Project 1: Netflix 
 Dashboard link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/NETFLIXPROJECTTABLEAU/NETFLIX?publish=yes
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Project 2: Champions League
