@@ -1,4 +1,5 @@
 # Project 1: Netflix Data Analysis Tableau Project
+## Dashboard Link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/NETFLIXPROJECTTABLEAU/NETFLIX?publish=yes
 ## Introduction
 This Tableau project aims to provide a comprehensive analysis of Netflix's content dataset, offering insights into various aspects such as ratings, duration, release years, and genre distribution. The dataset includes movies and TV shows from various countries, and this project visualizes the data through a series of interactive and informative charts and graphs. The objective is to uncover trends, patterns, and relationships within the Netflix content library.
 ## Project Components
@@ -18,9 +19,10 @@ This Tableau project aims to provide a comprehensive analysis of Netflix's conte
 ## Conclusion
 This Tableau project offers a detailed visualization of Netflix's content dataset, enabling users to explore various dimensions such as ratings, duration, release years, and genre distribution. By leveraging interactive visualizations, the project facilitates a deeper understanding of Netflix's content trends and patterns. The combination of card views, graphs, and maps ensures a comprehensive analysis, allowing stakeholders to make informed decisions and gain valuable insights into Netflix's content strategy and offerings.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project 2: UEFA Champions League Analysis
+## Dashboard Link: Project  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/ChampionsLeague_17171243414190/Dashboard1?publish=yes
 ## Introduction
 The UEFA Champions League is one of the most prestigious football tournaments in the world. This Tableau project provides a comprehensive analysis of various aspects of the competition, focusing on goal-scoring records, appearances, titles, and more. The data visualizations included offer insights into historical performance and achievements of players, coaches, and clubs in the tournament's history.
 ## Visualizations
@@ -55,9 +57,9 @@ The UEFA Champions League is one of the most prestigious football tournaments in
 ## Conclusion
 This Tableau project offers a detailed analysis of the UEFA Champions League, showcasing key statistics and historical data through various visualizations. By examining goal-scoring records, appearances, and club achievements, we gain a deeper understanding of the tournament's historical context and the standout performances of players and coaches. This analysis not only highlights individual and team successes but also offers a broader perspective on the competitive landscape of European club football.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project 3: Credit Card Trends Analysis
+## Dashboard Link: Credit Card Trends Dashboard link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/CreditCardTrends_17174203238910/CreditCardTrends?publish=yes
 ## Introduction
 This Tableau project explores credit card transaction data to uncover trends and patterns related to card usage, expenditures, and demographic breakdowns. The analysis includes various visualizations that provide insights into different aspects of the data:
 ### Description
