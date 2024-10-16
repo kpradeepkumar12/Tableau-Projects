@@ -1,5 +1,5 @@
 # Project 1: UEFA Champions League Analysis
-## Dashboard Link: Project  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/ChampionsLeague_17171243414190/Dashboard1?publish=yes
+## Dashboard Link:  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/ChampionsLeague_17171243414190/Dashboard1?publish=yes
 
 ![Tableau project 1pic](https://github.com/user-attachments/assets/f4ca3dc8-9849-49e8-bf99-d979228182ad)
 
@@ -64,7 +64,7 @@ This Tableau project offers a detailed visualization of Netflix's content datase
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project 3: Credit Card Trends Analysis
-## Dashboard Link: Credit Card Trends Dashboard link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/CreditCardTrends_17174203238910/CreditCardTrends?publish=yes
+## Dashboard Link:  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/CreditCardTrends_17174203238910/CreditCardTrends?publish=yes
 
 ![Tableau project 3pic](https://github.com/user-attachments/assets/771de161-5553-4a2f-8061-33af1f0f691e)
 
