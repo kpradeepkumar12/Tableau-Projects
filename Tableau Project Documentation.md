@@ -1,27 +1,4 @@
-# Project 1: Netflix Data Analysis Tableau Project
-## Dashboard Link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/NETFLIXPROJECTTABLEAU/NETFLIX?publish=yes
-## Introduction
-This Tableau project aims to provide a comprehensive analysis of Netflix's content dataset, offering insights into various aspects such as ratings, duration, release years, and genre distribution. The dataset includes movies and TV shows from various countries, and this project visualizes the data through a series of interactive and informative charts and graphs. The objective is to uncover trends, patterns, and relationships within the Netflix content library.
-## Project Components
-1. *Ratings (Cards)*: Displays the ratings of movies and TV shows in card format for quick reference.
-2. *Duration (Cards)*: Presents the duration of content in card format to assess the length of each title.
-3. *Release Year (Cards)*: Shows the release year of each title in card format, providing insights into the timeline of content availability.
-4. *Date Added (Cards)*: Highlights the date each title was added to Netflix in card format to understand the content's addition timeline.
-5. *Genre (Cards)*: Details the genre of each title in card format, allowing for an overview of the content's classification.
-6. *Description (Cards)*: Provides a brief description of each title in card format for contextual understanding.
-7. *Total Movies and TV Shows by Country (Map Visualization)*: Utilizes a map to visualize the distribution of movies and TV shows across different countries, offering a geographic perspective on Netflix's content library.
-8. *Rating (Bar Graph)*: Displays the ratings of movies and TV shows in a bar graph format to compare the popularity and quality of content.
-9. *Type (Vertical Drop-Down Slicer)*: Allows users to filter content based on type (Movie or TV Show) for focused analysis.
-10. *Title (Vertical Drop-Down Slicer)*: Enables users to select and view specific titles for detailed analysis.
-11. *Top 10 Genre (Horizontal Bar Graph)*: Shows the top 10 genres in a horizontal bar graph to identify the most prevalent genres in Netflix's catalog.
-12. *Total Movies and Shows by Years (Line Graph)*: Illustrates the trend of the number of movies and TV shows released over the years using a line graph.
-13. *Movies and TV Shows Distribution (Bubble Chart)*: Visualizes the distribution of movies and TV shows based on various parameters in a bubble chart, providing insights into content density and distribution.
-## Conclusion
-This Tableau project offers a detailed visualization of Netflix's content dataset, enabling users to explore various dimensions such as ratings, duration, release years, and genre distribution. By leveraging interactive visualizations, the project facilitates a deeper understanding of Netflix's content trends and patterns. The combination of card views, graphs, and maps ensures a comprehensive analysis, allowing stakeholders to make informed decisions and gain valuable insights into Netflix's content strategy and offerings.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# Project 2: UEFA Champions League Analysis
+# Project 1: UEFA Champions League Analysis
 ## Dashboard Link: Project  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/ChampionsLeague_17171243414190/Dashboard1?publish=yes
 ## Introduction
 The UEFA Champions League is one of the most prestigious football tournaments in the world. This Tableau project provides a comprehensive analysis of various aspects of the competition, focusing on goal-scoring records, appearances, titles, and more. The data visualizations included offer insights into historical performance and achievements of players, coaches, and clubs in the tournament's history.
@@ -56,6 +33,30 @@ The UEFA Champions League is one of the most prestigious football tournaments in
 - *Details:* This horizontal bar chart presents ratings or metrics of all-time winners of the UEFA Champions League, providing insights into their overall impact and success.
 ## Conclusion
 This Tableau project offers a detailed analysis of the UEFA Champions League, showcasing key statistics and historical data through various visualizations. By examining goal-scoring records, appearances, and club achievements, we gain a deeper understanding of the tournament's historical context and the standout performances of players and coaches. This analysis not only highlights individual and team successes but also offers a broader perspective on the competitive landscape of European club football.
+![Tableau project 1pic](https://github.com/user-attachments/assets/f4ca3dc8-9849-49e8-bf99-d979228182ad)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Project 2: Netflix Data Analysis 
+## Dashboard Link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/NETFLIXPROJECTTABLEAU/NETFLIX?publish=yes
+## Introduction
+This Tableau project aims to provide a comprehensive analysis of Netflix's content dataset, offering insights into various aspects such as ratings, duration, release years, and genre distribution. The dataset includes movies and TV shows from various countries, and this project visualizes the data through a series of interactive and informative charts and graphs. The objective is to uncover trends, patterns, and relationships within the Netflix content library.
+## Project Components
+1. *Ratings (Cards)*: Displays the ratings of movies and TV shows in card format for quick reference.
+2. *Duration (Cards)*: Presents the duration of content in card format to assess the length of each title.
+3. *Release Year (Cards)*: Shows the release year of each title in card format, providing insights into the timeline of content availability.
+4. *Date Added (Cards)*: Highlights the date each title was added to Netflix in card format to understand the content's addition timeline.
+5. *Genre (Cards)*: Details the genre of each title in card format, allowing for an overview of the content's classification.
+6. *Description (Cards)*: Provides a brief description of each title in card format for contextual understanding.
+7. *Total Movies and TV Shows by Country (Map Visualization)*: Utilizes a map to visualize the distribution of movies and TV shows across different countries, offering a geographic perspective on Netflix's content library.
+8. *Rating (Bar Graph)*: Displays the ratings of movies and TV shows in a bar graph format to compare the popularity and quality of content.
+9. *Type (Vertical Drop-Down Slicer)*: Allows users to filter content based on type (Movie or TV Show) for focused analysis.
+10. *Title (Vertical Drop-Down Slicer)*: Enables users to select and view specific titles for detailed analysis.
+11. *Top 10 Genre (Horizontal Bar Graph)*: Shows the top 10 genres in a horizontal bar graph to identify the most prevalent genres in Netflix's catalog.
+12. *Total Movies and Shows by Years (Line Graph)*: Illustrates the trend of the number of movies and TV shows released over the years using a line graph.
+13. *Movies and TV Shows Distribution (Bubble Chart)*: Visualizes the distribution of movies and TV shows based on various parameters in a bubble chart, providing insights into content density and distribution.
+## Conclusion
+This Tableau project offers a detailed visualization of Netflix's content dataset, enabling users to explore various dimensions such as ratings, duration, release years, and genre distribution. By leveraging interactive visualizations, the project facilitates a deeper understanding of Netflix's content trends and patterns. The combination of card views, graphs, and maps ensures a comprehensive analysis, allowing stakeholders to make informed decisions and gain valuable insights into Netflix's content strategy and offerings.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project 3: Credit Card Trends Analysis
@@ -83,5 +84,5 @@ The Tableau visualizations provide a comprehensive overview of credit card trans
 - *City Distribution*: Offers a spatial perspective on transaction data, highlighting key cities.
 By leveraging these visualizations, stakeholders can make data-driven decisions and better understand credit card usage trends and demographic influences.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
