@@ -1,5 +1,6 @@
 # Project 1: UEFA Champions League Analysis
 ## Dashboard Link: Project  https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/ChampionsLeague_17171243414190/Dashboard1?publish=yes
+![Tableau project 1pic](https://github.com/user-attachments/assets/f4ca3dc8-9849-49e8-bf99-d979228182ad)
 ## Introduction
 The UEFA Champions League is one of the most prestigious football tournaments in the world. This Tableau project provides a comprehensive analysis of various aspects of the competition, focusing on goal-scoring records, appearances, titles, and more. The data visualizations included offer insights into historical performance and achievements of players, coaches, and clubs in the tournament's history.
 ## Visualizations
@@ -33,9 +34,6 @@ The UEFA Champions League is one of the most prestigious football tournaments in
 - *Details:* This horizontal bar chart presents ratings or metrics of all-time winners of the UEFA Champions League, providing insights into their overall impact and success.
 ## Conclusion
 This Tableau project offers a detailed analysis of the UEFA Champions League, showcasing key statistics and historical data through various visualizations. By examining goal-scoring records, appearances, and club achievements, we gain a deeper understanding of the tournament's historical context and the standout performances of players and coaches. This analysis not only highlights individual and team successes but also offers a broader perspective on the competitive landscape of European club football.
-![Tableau project 1pic](https://github.com/user-attachments/assets/f4ca3dc8-9849-49e8-bf99-d979228182ad)
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project 2: Netflix Data Analysis 
 ## Dashboard Link: https://public.tableau.com/app/profile/pradeep.kumar.k8728/viz/NETFLIXPROJECTTABLEAU/NETFLIX?publish=yes
